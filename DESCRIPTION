@@ -1,0 +1,16 @@
+Package: FinalProject
+Title: A Variety of Functions for the BIOS 524 Computing Class Final Exam (R Portion)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Scott",
+           family = "Silvey",
+           role = c("cre"),
+           email = "silveys@vcu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Mixture Normal Distribution and Weather Simulation
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
